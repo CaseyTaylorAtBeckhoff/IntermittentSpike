@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProfilerRecordConfigFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BlackList>
+    <string>EXCEPT_WHITELIST</string>
+  </BlackList>
+  <WhiteList>
+    <string>PROGRAM</string>
+  </WhiteList>
+  <Records>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_09_04_22_52_659</FileName>
+      <Date>5/9/2022 4:22:52 PM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Name>PlcTask</Name>
+          <Priority>20</Priority>
+          <Duration>129089</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>297</Cycles>
+      <Min>13</Min>
+      <Max>378</Max>
+      <MaxDepth>1</MaxDepth>
+      <ProfiledElementCount>891</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_09_06_17_23_966</FileName>
+      <Date>5/9/2022 6:17:23 PM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Name>PlcTask</Name>
+          <Priority>20</Priority>
+          <Duration>437954</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>1102</Cycles>
+      <Min>6</Min>
+      <Max>461</Max>
+      <MaxDepth>1</MaxDepth>
+      <ProfiledElementCount>3306</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_11_09_18_55_946</FileName>
+      <Date>5/11/2022 9:18:55 PM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Name>PlcTask</Name>
+          <Priority>20</Priority>
+          <Duration>83169</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>209</Cycles>
+      <Min>7</Min>
+      <Max>459</Max>
+      <MaxDepth>1</MaxDepth>
+      <ProfiledElementCount>627</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_11_09_18_58_273</FileName>
+      <Date>5/11/2022 9:18:58 PM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Name>PlcTask</Name>
+          <Priority>20</Priority>
+          <Duration>99988</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>251</Cycles>
+      <Min>7</Min>
+      <Max>461</Max>
+      <MaxDepth>1</MaxDepth>
+      <ProfiledElementCount>753</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+  </Records>
+</ProfilerRecordConfigFile>
